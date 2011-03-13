@@ -1,0 +1,147 @@
+===============================================================================================
+KEY
+-----------------------------------------------------------------------------------------------
+
+  Lev 	= Level, 1 = ordinary tree, 2 = "enhanced" tree
+  C 	= Coin amount this tree harvests for.
+  D 	= Days it takes for the tree to fruit
+  C/D 	= Coins per Day, the "daily earning power" of that tree
+  *# 	= mastery points for first, second, or third star
+  --> 	= the type of seedling this tree produces
+
+===============================================================================================
+Tree Levels
+-----------------------------------------------------------------------------------------------
+
+  All of the trees that existed before orchards were offered are treated as 
+"level 1" trees as are some of the new LE trees that have been offered since. 
+Any tree grown from an orchard seedling is a "level 2" tree. Level 2 trees are 
+generally worth more, harvest for more, and can also be mastered. At present, no 
+"level 3" trees are offered.
+
+There are 67 Level I trees and 53 Level II trees. 
+(Note: count of level I trees includes Persimmon and Carnival.)
+
+===============================================================================================
+Tree                    Lev      C  D      C/D   *1   *2   *3 TOTAL  --> Next Level
+-----------------------------------------------------------------------------------------------
+Acai                    1      158  2    79.00   75  150  225   450  --> Peach Palm
+Alma Fig                2       99  3    33.00   75  150  225   450
+Almond                  1       55  3    18.33   75  150  225   450  --> Dwarf Almond
+Amherstia               2      105  3    35.00  113  226  339   678
+Angel Red Pomegranate   2      324  5    64.80   68  136  204   408
+Apple                   1       28  3     9.33   75  150  225   450  --> Granny Smith Apple
+Apricot                 1       56  4    14.00   57  114  171   342  --> Golden Apricot
+Arjuna                  1      140  3    46.67   75  150  225   450  --> Indian Laurel
+Asian Pear              1      140  2    70.00  113  226  339   678  --> Shinko Pear
+Autumn Ginkgo           2      390  3   130.00  113  226  339   678
+Avocado                 1       37  3    12.33   75  150  225   450  --> Hass Avocado
+Bahri Date              2      207  3    69.00  113  226  339   678
+Banana                  1       56  3    18.67  113  226  339   678  --> Cuban Banana
+Big Caramel Apple       2      150  2    75.00   75  150  225   450
+Black Cherry            1      150  2    75.00   75  150  225   450  --> Giant Black Cherry
+Blood Orange            2      120  4    30.00   57  114  171   342
+Breadfruit              1       55  3    18.33   75  150  225   450  --> Breadnut
+Breadnut                2      165  3    55.00   75  150  225   450
+Bubblegum               2      324  5    64.80   75  150  225   450
+Caramel Apple I         1      150  2    75.00   75  150  225   450  --> Big Caramel Apple
+Caramel Apple II        1      150  2    75.00   75  150  225   450  --> Granny Smith Apple
+Carnival                1       80  3    26.67    x    x    x     x
+Cashew                  1       41  3    13.67   75  150  225   450  --> Wild Cashew
+Chanee Durian           2      195  4    48.75   57  114  171   342
+Cherry                  1       18  2     9.00  113  226  339   678  --> Rainier Cherry
+Chestnut                1      150  2    75.00   75  150  225   450  --> Hazelnut
+Chinese Lantern         2      150  2    75.00   75  150  225   450
+Chocolate Heart         1      150  2    75.00   75  150  225   450  --> Giant Chocolate Heart
+Cinnamon Heart          1      150  2    75.00   75  150  225   450  --> Heart Candy
+Cocoa                   1      150  2    75.00   75  150  225   450  --> Giant Cocoa
+Coconut                 1      140  3    46.67   50  100  150   300  --> Golden Malayan Coconut
+Confetti                1      150  2    75.00   75  150  225   450  --> Disco Ball
+Cottoncandy             1      150  2    75.00   75  150  225   450  --> Bubblegum
+Cuban Banana            2      168  3    56.00  113  226  339   678
+Date                    1       69  3    23.00  113  226  339   678  --> Bahri Date
+Disco Ball              2      150  2    75.00   75  150  225   450
+Durian                  1       65  4    16.25   57  114  171   342  --> Chanee Durian
+Dwarf Almond            2      165  3    55.00   75  150  225   450
+Elberta Peach           2      141  4    35.25   57  114  171   342
+Fig                     1       33  3    11.00   75  150  225   450  --> Alma Fig
+Giant Black Cherry      2      150  2    75.00   75  150  225   450
+Giant Bubblegum         2      150  2    75.00   75  150  225   450
+Giant Chocolate Heart   2      150  2    75.00   75  150  225   450
+Giant Cinnamon          1      150  2    75.00   75  150  225   450  --> Giant Heart Candy
+Giant Cocoa             2      150  2    75.00   75  150  225   450
+Giant Golden Apple      2      150  2    75.00   75  150  225   450
+Giant Heart Candy       2      150  2    75.00   75  150  225   450
+Giant Mac & Cheese      2      150  2    75.00   75  150  225   450
+Giant Mardi Gras        2      150  2    75.00   75  150  225   450
+Giant Sour Apple        2      150  2    75.00   75  150  225   450
+Ginkgo                  1      130  3    43.33  113  226  339   678  --> Autumn Ginkgo
+Golden Apple            1      150  2    75.00   75  150  225   450  --> Giant Golden Apple
+Golden Apricot          2      168  4    42.00   57  114  171   342
+Golden Malayan Coconut  2      420  3   140.00   50  100  150   300
+Golden Plum             2       90  3    30.00   75  150  225   450
+Golden Starfruit        2      195  4    48.75   57  114  171   342
+Granny Smith Apple      2       84  3    28.00  113  226  339   678
+Grapefruit              1       50  3    16.67  113  226  339   678  --> Star Ruby Grapefruit
+Guava                   1       55  3    18.33  113  226  339   678  --> Ruby Guava
+Gulmohar                1       55  3    18.33   75  150  225   450  --> Mountain Ebony
+Hass Avocado            2      111  3    37.00   75  150  225   450
+Hazelnut                2      150  2    75.00   75  150  225   450
+Heart Candy             2      150  2    75.00   75  150  225   450
+Heirloom Apple          1      100  2    50.00  113  226  339   678  --> Granny Smith Apple
+Holiday                 1       33  3    11.00   75  150  225   450  --> Ornament II
+Indian Laurel           2      420  3   140.00   75  150  225   450
+Jackfruit               1      140  3    46.67   75  150  225   450  --> Singapore Jackfruit
+Key Lime                2      225  5    45.00   45   90  135   270
+Lemon                   1       41  3    13.67   75  150  225   450  --> Ponderosa Lemon
+Lime                    1       75  5    15.00   45   90  135   270  --> Key Lime
+Longan                  2      420  3   140.00   75  150  225   450
+Lychee                  1      140  3    46.67   75  150  225   450  --> Longan
+Mac & Cheese            1      150  2    75.00   75  150  225   450  --> Giant Mac & Cheese
+Mandarin                1       80  4    20.00   57  114  171   342  --> Blood Orange
+Mango                   1      130  4    32.50   85  170  255   510  --> Manilla Mango
+Manila Mango            2      390  4    97.50   85  170  255   510
+Maple                   1      150  2    75.00   75  150  225   450  --> Silver Maple
+Mardi Gras              1      150  2    75.00   75  150  225   450  --> Giant Mardi Gras
+Mint Candy              2      324  5    64.80   75  150  225   450
+Mission Olive           2      336  4    84.00   85  170  255   510
+Mistletoe               1      150  2    75.00   75  150  225   450  --> Ornament
+Money                   1      150  2    75.00   75  150  225   450  --> Chinese Lantern
+Mountain Ebony          2      165  3    55.00   75  150  225   450
+Olive                   1      112  4    28.00   85  170  255   510  --> Mission Olive
+Orange                  1       40  4    10.00   57  114  171   342  --> Blood Orange
+Ornament I              1      150  2    75.00  113  226  339   678  --> Ornament II
+Ornament II             2      150  2    75.00  113  226  339   678
+Ornament (III)          2      150  2    75.00   75  150  225   450
+Passion Fruit           1       93  5    18.60   68  136  204   408  --> Yellow Passion Fruit
+Peach                   1       47  4    11.75   57  114  171   342  --> Elberta Peach
+Peach Palm              2      474  2   237.00   75  150  225   450
+Persimmon               1       70  4    17.50    x    x    x     x
+Pine                    1      324  5    64.80  113  226  339   678  --> White Pine
+Pink Bubblegum          1      150  2    75.00   75  150  225   450  --> Giant Bubblegum
+Plum                    1       30  3    10.00   75  150  225   450  --> Golden Plum
+Pomegranate             1      108  5    21.60   68  136  204   408  --> Angel Red Pomegranate
+Ponderosa Lemon         2      123  3    41.00   75  150  225   450
+Rainbow Apple           1       60  3    20.00   75  150  225   450  --> Granny Smith Apple
+Rainier Cherry          2       54  2    27.00  113  226  339   678
+Red Alder               2      150  2    75.00   75  150  225   450
+Red Maple               1       25  2    12.50  113  226  339   678  --> Silver Maple
+Ruby Guava              2      165  3    55.00  113  226  339   678
+Shinko Pear             2      420  2   210.00  113  226  339   678
+Silver Maple            2      324  5    64.80  113  226  339   678
+Singapore Jackfruit     2      420  3   140.00   75  150  225   450
+Sitka Spruce            1      150  2    75.00   75  150  225   450  --> Red Alder
+Snow Cone               1      150  2    75.00   75  150  225   450  --> Bubblegum
+Sour Apple              1      150  2    75.00   75  150  225   450  --> Giant Sour Apple
+Star Ruby Grapefruit    2      150  3    50.00  113  226  339   678
+Starfruit               1       65  4    16.25   57  114  171   342  --> Golden Starfruit
+Sugar Plum              1      150  2    75.00   75  150  225   450  --> Mint Candy
+Tamarind                1       35  3    11.67  113  226  339   678  --> Amherstia
+Walnut                  1       50  3    16.67  113  226  339   678  --> White Walnut
+Wax Apple               1       55  3    18.33   75  150  225   450  --> Granny Smith Apple
+White Apple             1       40  2    20.00  113  226  339   678  --> Granny Smith Apple
+White Pine              2      324  5    64.80  113  226  339   678
+White Walnut            2      150  3    50.00  113  226  339   678
+Wild Cashew             2      123  3    41.00   75  150  225   450
+Yellow Maple            1       25  2    12.50  113  226  339   678  --> Silver Maple
+Yellow Passion Fruit    2      279  5    55.80   68  136  204   408
