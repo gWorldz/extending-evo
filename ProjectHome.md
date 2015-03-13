@@ -1,0 +1,1 @@
+This project is comprised of all my efforts to extend B2Evolution and includes plugins, skins and widgets I am developing.
